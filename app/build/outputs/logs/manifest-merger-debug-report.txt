@@ -1,0 +1,436 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+permission#com.hardway.gnits.permission.MAPS_RECEIVE
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:6:9-65
+uses-permission#com.hardway.offlineshop.permission.MAPS_RECEIVE
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:9:5-87
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:9:22-84
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\MaheshB\.android\build-cache\68f68b4fd271c00578aa1182ee704208a63b1157\output\AndroidManifest.xml:20:5-66
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\MaheshB\.android\build-cache\68f68b4fd271c00578aa1182ee704208a63b1157\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:14:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:17:22-95
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:18:22-62
+uses-feature#0x00020000
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:20:5-22:35
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\MaheshB\.android\build-cache\68f68b4fd271c00578aa1182ee704208a63b1157\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:21:9-41
+	android:required
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:22:9-32
+application
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:24:5-106:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\MaheshB\.android\build-cache\3b8b8207851809ecf4b3c3005db6b40f11907e5e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\f538b683e85aa638fc9e185348f3800846cc1294\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\MaheshB\.android\build-cache\68f68b4fd271c00578aa1182ee704208a63b1157\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\MaheshB\.android\build-cache\01a2614395faf46d2ea5f7e2120545d0500b3077\output\AndroidManifest.xml:4:5-19
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:15:5-21:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\76243dddd9014872068022339dc9d531a55cf5bf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\MaheshB\.android\build-cache\da8281ca33f663a21cea3d342334ee9849f3be04\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\MaheshB\.android\build-cache\097e7075a23f7aeba08fb714156f8fcb859c5f12\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\MaheshB\.android\build-cache\999fb0fa69a6c3708af90b05b71dc4187deb227b\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\MaheshB\.android\build-cache\d40d7c7262da245e442ed66069829d3ca172c826\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\MaheshB\.android\build-cache\e8b3f6b1f184a0b7c11861ab1eaf16c2acb14007\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\MaheshB\.android\build-cache\4b0583d39dc2972abbd15d93cab9bbc1e677ae78\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\MaheshB\.android\build-cache\0f08fdfe430b81aa7870b4cc6ff883341d948233\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\MaheshB\.android\build-cache\ae4aa3aed0129f0691b32b3ba2d72c22cdb77ac9\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\MaheshB\.android\build-cache\425275c80cc599f9575c14404122cc003f1307dc\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\MaheshB\.android\build-cache\9727e8bac49290c542defb0df315d1ca90f02418\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\MaheshB\.android\build-cache\ed4a57dadb7ab95d99713e5d253ffa6bed2692b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\MaheshB\.android\build-cache\8d9b89118d681ed6113fc44ef590e65de5a317db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\MaheshB\.android\build-cache\95d2a082e5138f28ea98d7347c0aa5296bf04170\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\MaheshB\.android\build-cache\7ae1115e467cacfaaa5c537b7fcfd5367fd1297f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\MaheshB\.android\build-cache\179c21472d8df00cc142ee270ba489c6528d0d34\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:29:9-35
+	android:allowBackup
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:25:9-38
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\MaheshB\.android\build-cache\425275c80cc599f9575c14404122cc003f1307dc\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.hardway.gnits.MainActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:35:9-37:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.hardway.gnits.BrowserActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:38:9-53
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:38:19-50
+activity#com.hardway.gnits.forum.QuestionDisplay
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:39:9-59
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:39:19-56
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:48:9-50:55
+	android:value
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:50:13-52
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:49:13-58
+activity#com.hardway.gnits.pdf.PdfView
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:52:9-49
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:52:19-46
+activity#com.hardway.gnits.MapsActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:53:9-55:59
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:54:13-41
+activity#com.hardway.gnits.A1
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:56:9-40
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:56:19-37
+activity#com.hardway.gnits.A2
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:57:9-40
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:57:19-37
+activity#com.hardway.gnits.login.LoginRegister
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:58:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:62:27-74
+activity#com.hardway.gnits.fragments.HomeFragment
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:65:9-60
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:65:19-57
+activity#com.hardway.gnits.upload.Upload
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:66:9-51
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:66:19-48
+activity#com.hardway.gnits.details.Notifications
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:67:9-70:54
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:69:13-65
+	android:theme
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:70:13-51
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:68:13-50
+activity#com.hardway.gnits.details.NotiUpload
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:71:9-56
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:71:19-53
+activity#com.hardway.gnits.chat.SignupActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:72:9-57
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:72:19-54
+activity#com.hardway.gnits.chat.LoginActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:73:9-56
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:73:19-53
+activity#com.hardway.gnits.chat.ResetPasswordActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:74:9-64
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:74:19-61
+activity#com.hardway.gnits.chat.Chat_Settings
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:75:9-56
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:75:19-53
+service#com.hardway.gnits.chat.classes.fcm.MyFirebaseMessagingService
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:77:9-81:19
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:77:18-77
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:78:13-80:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:79:17-78
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:79:25-75
+service#com.hardway.gnits.chat.classes.fcm.MyFirebaseInstanceIDService
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:82:9-86:19
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:82:18-78
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:83:13-85:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:84:17-80
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:84:25-77
+activity#com.hardway.gnits.chat.classes.ui.activities.SplashActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:88:9-90:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:89:13-70
+activity#com.hardway.gnits.chat.classes.ui.activities.LoginActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:91:9-93:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:92:13-69
+activity#com.hardway.gnits.chat.classes.ui.activities.RegisterActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:94:9-96:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:95:13-72
+activity#com.hardway.gnits.chat.classes.ui.activities.UserListingActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:97:9-99:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:98:13-75
+activity#com.hardway.gnits.chat.classes.ui.activities.ChatActivity
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:100:9-102:48
+	android:label
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:102:13-45
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:101:13-68
+activity#com.hardway.gnits.forum.Dept
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:103:9-48
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:103:19-45
+activity#com.hardway.gnits.forum.Tags
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:104:9-48
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:104:19-45
+activity#com.hardway.gnits.forum.TagsDisplay
+ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:105:9-64
+	android:name
+		ADDED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:105:19-52
+uses-sdk
+INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] C:\Users\MaheshB\.android\build-cache\3b8b8207851809ecf4b3c3005db6b40f11907e5e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\0b38ae1301af298ab6d9527dc046dd8485bb129a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\f538b683e85aa638fc9e185348f3800846cc1294\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\MaheshB\.android\build-cache\68f68b4fd271c00578aa1182ee704208a63b1157\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\MaheshB\.android\build-cache\01a2614395faf46d2ea5f7e2120545d0500b3077\output\AndroidManifest.xml:3:5-42
+MERGED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\76243dddd9014872068022339dc9d531a55cf5bf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\MaheshB\.android\build-cache\da8281ca33f663a21cea3d342334ee9849f3be04\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\MaheshB\.android\build-cache\097e7075a23f7aeba08fb714156f8fcb859c5f12\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\MaheshB\.android\build-cache\02036053728aed19eefc90553ba8607af06ac0b6\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\MaheshB\.android\build-cache\5cd4f33638b50f7f7b2d205f4ae7ebde7839d1fc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\MaheshB\.android\build-cache\999fb0fa69a6c3708af90b05b71dc4187deb227b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\MaheshB\.android\build-cache\d40d7c7262da245e442ed66069829d3ca172c826\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\MaheshB\.android\build-cache\e8b3f6b1f184a0b7c11861ab1eaf16c2acb14007\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\MaheshB\.android\build-cache\f767f4c39a71ba34762d53aea2abc2876fc249d4\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\MaheshB\.android\build-cache\4b0583d39dc2972abbd15d93cab9bbc1e677ae78\output\AndroidManifest.xml:3:5-72
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\MaheshB\.android\build-cache\0f08fdfe430b81aa7870b4cc6ff883341d948233\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\MaheshB\.android\build-cache\ae4aa3aed0129f0691b32b3ba2d72c22cdb77ac9\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\MaheshB\.android\build-cache\425275c80cc599f9575c14404122cc003f1307dc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\MaheshB\.android\build-cache\9727e8bac49290c542defb0df315d1ca90f02418\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\MaheshB\.android\build-cache\ed4a57dadb7ab95d99713e5d253ffa6bed2692b8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\MaheshB\.android\build-cache\8d9b89118d681ed6113fc44ef590e65de5a317db\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\MaheshB\.android\build-cache\95d2a082e5138f28ea98d7347c0aa5296bf04170\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\MaheshB\.android\build-cache\7ae1115e467cacfaaa5c537b7fcfd5367fd1297f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\MaheshB\.android\build-cache\179c21472d8df00cc142ee270ba489c6528d0d34\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\MaheshB\.android\build-cache\76243dddd9014872068022339dc9d531a55cf5bf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:13:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:13:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] C:\Users\MaheshB\.android\build-cache\6a9ede4437d9e32cd85c47eb274f6ff7c81abddb\output\AndroidManifest.xml:17:13-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\MaheshB\AndroidStudioProjects\Gnits\app\src\main\AndroidManifest.xml:2:1-108:12 reason: net.gotev.uploadservice requested WRITE_EXTERNAL_STORAGE
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\MaheshB\.android\build-cache\999fb0fa69a6c3708af90b05b71dc4187deb227b\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\MaheshB\.android\build-cache\999fb0fa69a6c3708af90b05b71dc4187deb227b\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\MaheshB\.android\build-cache\999fb0fa69a6c3708af90b05b71dc4187deb227b\output\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\MaheshB\.android\build-cache\0a055dd0242028640238903b707ecd5573838fbe\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\MaheshB\.android\build-cache\f7372acbc835fba3d37f6ec65bca0ae8f1438b3e\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\MaheshB\.android\build-cache\4467d9b786857e5d36bd3773bf7dc503eaee5ce8\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\MaheshB\.android\build-cache\8528c36787fbcf4490ae6cf42c05c8963cf2380b\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\MaheshB\.android\build-cache\ae3a97a54b0f924d067262789e623b84ddfb24e5\output\AndroidManifest.xml:6:79-124

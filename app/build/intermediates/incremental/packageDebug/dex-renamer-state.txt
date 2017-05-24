@@ -1,0 +1,7 @@
+#Mon May 22 21:51:13 IST 2017
+base.0=C\:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd540913bd8c83f2f1f34148ca84b0482d1ca6b3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b3047f5ae6e5e6a4f5154dacc9a9d0bfc198465f\\classes.dex
+base.1=C\:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b3047f5ae6e5e6a4f5154dacc9a9d0bfc198465f
+file.0=C\:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd540913bd8c83f2f1f34148ca84b0482d1ca6b3\\classes.dex

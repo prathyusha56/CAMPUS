@@ -1,0 +1,184 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#ffffff"
+    android:layout_height="match_parent"
+    tools:context=".fragments.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="fill_parent"
+        android:id="@+id/cardview_question_ask"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2dp"
+        app:contentPadding="5dp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register Your Question"
+            android:layout_gravity="center"
+            android:paddingLeft="15dp"
+            android:textSize="15dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:id="@+id/Question_question"
+            android:textColor="#416971"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#bdbdbd"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:visibility="gone"
+    android:id="@+id/with_login"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spinner_home"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        />
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_home_question_head"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                      <EditText
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:maxLines="4"
+                          android:id="@+id/home_question_head"
+                          android:hint="Title (Max 200 characters)">
+                      </EditText>
+                </android.support.design.widget.TextInputLayout>
+            </ScrollView>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_home_question"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Question Explanation"
+                android:lines="7"
+                android:gravity="bottom"
+                android:id="@+id/home_question"
+                android:textAlignment="gravity"
+                />
+
+                </android.support.design.widget.TextInputLayout>
+            </ScrollView>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                />
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_home_tag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/home_tag"
+                android:hint="Tag"/>
+
+</android.support.design.widget.TextInputLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:id="@+id/home_question_button"
+                android:background="@drawable/selector"
+                android:text="Register"
+                />
+</LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/without_login"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Register to use this feature"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="15sp"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Register Now"
+                    android:id="@+id/register_home"
+                    android:textColor="@color/white"
+                    android:background="@drawable/selector"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hardway.gnits">
+
+    <permission
+        android:name="com.hardway.gnits.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.hardway.offlineshop.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name=".AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" />
+        <activity android:name=".BrowserActivity" />
+        <activity android:name=".forum.QuestionDisplay" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity android:name=".pdf.PdfView" />
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".A1" />
+        <activity android:name=".A2" />
+        <activity android:name=".login.LoginRegister">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".fragments.HomeFragment" />
+        <activity android:name=".upload.Upload" />
+        <activity
+            android:name=".details.Notifications"
+            android:label="@string/title_activity_notifications"
+            android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".details.NotiUpload" />
+        <activity android:name=".chat.SignupActivity" />
+        <activity android:name=".chat.LoginActivity" />
+        <activity android:name=".chat.ResetPasswordActivity" />
+        <activity android:name=".chat.Chat_Settings" />
+
+        <service android:name=".chat.classes.fcm.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".chat.classes.fcm.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".chat.classes.ui.activities.SplashActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".chat.classes.ui.activities.LoginActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".chat.classes.ui.activities.RegisterActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".chat.classes.ui.activities.UserListingActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".chat.classes.ui.activities.ChatActivity"
+            android:label="@string/app_name" />
+        <activity android:name=".forum.Dept" />
+        <activity android:name=".forum.Tags" />
+        <activity android:name=".forum.TagsDisplay"></activity>
+    </application>
+
+</manifest>

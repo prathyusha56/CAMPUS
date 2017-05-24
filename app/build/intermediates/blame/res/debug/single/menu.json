@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_album.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\menu\\menu_album.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_album.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\menu\\menu_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_listing.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\menu\\menu_user_listing.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_listing.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\menu\\menu_user_listing.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:clickable="true"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/answer_answer"
+        android:textColor="@color/title"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/answer_answer"
+        android:gravity="center_vertical"
+        android:id="@+id/relative_answer"
+        android:orientation="vertical"
+        android:background="@drawable/gradient_answer">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:paddingLeft="10dp"
+            android:textColor="#ffffff"
+            android:id="@+id/answer_answered_by"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_below="@+id/relative_answer"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/view_answer_display"/>
+
+
+    <TextView
+        android:id="@+id/timstamp_answers_display"
+        android:layout_below="@id/view_answer_display"
+        android:textColor="@color/year"
+        android:layout_width="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

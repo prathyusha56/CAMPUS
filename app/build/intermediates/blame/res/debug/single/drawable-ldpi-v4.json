@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\0a055dd0242028640238903b707ecd5573838fbe\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error_24dp.png",
+        "source": "F:\\android\\Gnits\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error_24dp.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_24dp.png"
+    }
+]

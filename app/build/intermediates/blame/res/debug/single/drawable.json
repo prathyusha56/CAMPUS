@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e3.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album7.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album7.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button1.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button1.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background1.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e4.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button2.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\3b8b8207851809ecf4b3c3005db6b40f11907e5e\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e6.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e6.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button3.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button3.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album8.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e5.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e5.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_rect_bg.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\chat_rounded_rect_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album6.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\0a055dd0242028640238903b707ecd5573838fbe\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hii.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\hii.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e8.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album9.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album9.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album10.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album10.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e5.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\0a055dd0242028640238903b707ecd5573838fbe\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_messaging.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\ic_messaging.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_accent.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\circle_accent.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.jpeg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\abc.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album7.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album7.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rect_bg.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\rounded_rect_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album1.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album1.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase_chat_splash.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\firebase_chat_splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcd.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\abcd.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcde.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\abcde.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcde.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\abcde.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album10.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album10.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background1.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\background1.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button3.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button3.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album2.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album8.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album5.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_bg.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\image_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\3b8b8207851809ecf4b3c3005db6b40f11907e5e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.jpeg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\abc.jpeg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album1.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button1.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\3b8b8207851809ecf4b3c3005db6b40f11907e5e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\3b8b8207851809ecf4b3c3005db6b40f11907e5e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\0a055dd0242028640238903b707ecd5573838fbe\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e8.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\0a055dd0242028640238903b707ecd5573838fbe\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button2.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\rounded_button2.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e3.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album4.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e7.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album2.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_accent.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\circle_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_rect_bg.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\chat_rounded_rect_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album5.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album5.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_parent_rounded_corner.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album3.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album11.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album11.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcd.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\abcd.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e6.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e6.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album4.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\album4.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e2.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e2.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase_chat_splash.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\firebase_chat_splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album11.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e1.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\e1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rect_bg.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\rounded_rect_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_parent_rounded_corner.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hii.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\hii.png"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e7.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e7.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_bg.xml",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\image_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\android\\Gnits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e4.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album3.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album3.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e2.png",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e2.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album6.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album6.jpg"
+    },
+    {
+        "merged": "F:\\android\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e1.jpg",
+        "source": "F:\\android\\Gnits\\app\\src\\main\\res\\drawable\\e1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_messaging.png",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\ic_messaging.png"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\MaheshB\\.android\\build-cache\\76243dddd9014872068022339dc9d531a55cf5bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album9.jpg",
+        "source": "C:\\Users\\MaheshB\\AndroidStudioProjects\\Gnits\\app\\src\\main\\res\\drawable\\album9.jpg"
+    }
+]
